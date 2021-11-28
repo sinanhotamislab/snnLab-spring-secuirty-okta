@@ -1,0 +1,9 @@
+server:
+  servlet:
+    context-path: /spring-security-okta
+  port: 8081
+
+okta:
+  oauth2:
+    issuer: https://dev-95993870.okta.com/oauth2/default
+    clientId: 0oakkwty07dZtUMJV5d6
